@@ -1,3 +1,3 @@
 *********** MEDICAL CLINIC *************
 
-The user can register the doctors, pacients and make appointments.
+The user can register the doctors, patients and make appointments.
